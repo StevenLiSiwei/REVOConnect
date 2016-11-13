@@ -1,0 +1,7 @@
+D:\Repos\REVOConnect\REVOConnect\REVOConnect\bin\Debug\REVOConnect.exe.config
+D:\Repos\REVOConnect\REVOConnect\REVOConnect\obj\Debug\REVOConnect.csprojResolveAssemblyReference.cache
+D:\Repos\REVOConnect\REVOConnect\REVOConnect\bin\Debug\REVOConnect.exe
+D:\Repos\REVOConnect\REVOConnect\REVOConnect\bin\Debug\REVOConnect.pdb
+D:\Repos\REVOConnect\REVOConnect\REVOConnect\bin\Debug\MySql.Data.dll
+D:\Repos\REVOConnect\REVOConnect\REVOConnect\obj\Debug\REVOConnect.exe
+D:\Repos\REVOConnect\REVOConnect\REVOConnect\obj\Debug\REVOConnect.pdb
